@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"All Packages","u":"allpackages-index.html"},{"l":"fr.diginamic.jdbc"},{"l":"fr.diginamic.jdbc.connection"},{"l":"fr.diginamic.jdbc.dao"},{"l":"fr.diginamic.jdbc.dao.impl"},{"l":"fr.diginamic.jdbc.entites"},{"l":"fr.diginamic.jdbc.service"},{"l":"fr.diginamic.jdbc.service.impl"},{"l":"fr.diginamic.jdbc.util"}];updateSearchResults();
